@@ -1,0 +1,6 @@
+node_modules
+*.error
+components/*.js
+shared/*.mjml
+templates/*.mjml
+lib/**
